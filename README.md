@@ -40,7 +40,7 @@ I am a Javascript Software Developer <img src="https://media.giphy.com/media/WUl
 ---
 
 - 🔭 I’m currently working at Stelab
-- 🌱 I’m currently learning typescript and web3
+- 🌱 I’m currently learning typescript
 
 ---
 
