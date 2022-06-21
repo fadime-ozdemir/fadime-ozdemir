@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ysa5oH0RszCVi/giphy.gif" width="250"/>
-</div>
+</div> -->
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/fadimeozdemir/">
