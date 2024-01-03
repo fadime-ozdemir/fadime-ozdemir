@@ -84,20 +84,23 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fadime-ozdemir&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fadime-ozdemir&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadime-ozdemir&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center" style="display: flex; justify-content:center; align-items:center; ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadime-ozdemir&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />   
+  <img src="https://github-readme-stats.vercel.app/api?username=fadime-ozdemir&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
+
+<!---
+![](https://github-readme-streak-stats.herokuapp.com/?user=fadime-ozdemir&theme=dark&hide_border=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fadime-ozdemir&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--### 😂 Random Dev Meme
+### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
--->
 ---
 [![](https://visitcount.itsvg.in/api?id=fadime-ozdemir&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
+ 
